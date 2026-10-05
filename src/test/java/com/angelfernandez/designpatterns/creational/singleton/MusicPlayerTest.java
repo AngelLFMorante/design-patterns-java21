@@ -1,6 +1,5 @@
-package com.angelfernandez.designpatterns;
+package com.angelfernandez.designpatterns.creational.singleton;
 
-import com.angelfernandez.designpatterns.creational.singleton.MusicPlayer;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
