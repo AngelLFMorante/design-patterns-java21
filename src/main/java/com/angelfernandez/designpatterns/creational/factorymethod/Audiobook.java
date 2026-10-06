@@ -1,0 +1,8 @@
+package com.angelfernandez.designpatterns.creational.factorymethod;
+
+public class Audiobook implements LibraryContent{
+    @Override
+    public void open() {
+        System.out.println("Abriendo AudioBook...");
+    }
+}
